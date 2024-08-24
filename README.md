@@ -6,6 +6,8 @@
 
 ### Summary
 
+[Inspiration: Group Chat Summarizer](https://github.com/omer-go/group_chat_summarizer)
+
 - Filter by date
 - Summarize conversation
 - Get links from conversation
