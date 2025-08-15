@@ -164,3 +164,6 @@ cython_debug/
 ######## Project Specific ########
 history/
 summary/
+
+# VSCode
+.vscode/
